@@ -1,0 +1,7 @@
+Package: rARACNE
+Title: Tools for interfacing with ARACNE from R
+Description: 
+Version: 0.1
+Author: Aaron Brooks <abrooks@systemsbiology.org>
+Maintainer: Aaron Brooks <abrooks@systemsbiology.org>
+License: MIT
